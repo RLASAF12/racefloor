@@ -1,3 +1,5 @@
+> **Archived.** This repo moved to [RLASAF12/agent-failure-lab](https://github.com/RLASAF12/agent-failure-lab/tree/main/racefloor) (folder `racefloor/`, full history preserved). Archived 2026-10-04.
+
 # 🏁 RaceFloor
 
 **Multi-Agent Race Condition Simulator**
